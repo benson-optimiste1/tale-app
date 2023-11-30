@@ -1,5 +1,5 @@
 # Portfolio
-[!thumbail](./public/image/tri.webp)
+[![thumbail](./public/image/tri.webp)]
 ## website
 check out my demo site at
 [BocaCode.com](https://bocacode.com)
